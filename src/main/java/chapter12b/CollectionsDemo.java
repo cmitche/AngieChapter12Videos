@@ -8,7 +8,7 @@ public class CollectionsDemo {
         setDemo();
         // listDemo();
         // queueDemo();
-        // mapsDemo();
+         mapDemo();
     }
 
     public static void setDemo(){
@@ -85,7 +85,7 @@ public class CollectionsDemo {
             System.out.println(entry.getValue());
         }
 
-        fruitCalories.forEach();
+//        fruitCalories.forEach();
     }
 
 }
